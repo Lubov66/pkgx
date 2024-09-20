@@ -234,7 +234,7 @@ pkgx integrate --dry-run   # docs.pkgx.sh/shell-integration
 
 If you have questions or feedback:
 
-* [github.com/orgs/pkgxdev/discussions][discussions]
+* [https://github.com/pkgxdev/pkgx/issues][issues]
 * [x.com/pkgxdev](https://x.com/pkgxdev) (DMs are open)
 
 
